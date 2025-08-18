@@ -8,7 +8,7 @@ Welcome to **Mesozoic Era**, an immersive, interactive platform to explore dinos
 
 ## 🔗 Live Demo
 
-👉 [Try the App](https://mesozoic-era0.netlify.app/)
+👉 [Try the App](https://mesozoic-era.netlify.app/)
 
 🎥 [Watch Demo Video](https://www.youtube.com/watch?v=vyNAfmxPHlw)
 
